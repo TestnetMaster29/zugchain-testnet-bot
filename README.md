@@ -62,15 +62,7 @@ Auto claim stake? (y/n)
 (Current version initializes wallets and checks balances.
 Staking & claiming logic can be added next.)
 
-Project Structure
-zugchain-bot/
-├─ index.js
-├─ package.json
-├─ accounts.txt
-└─ src/
-   ├─ bot.js
-   ├─ ethers.js
-   └─ config.js
+
 
 Security Warning
 
