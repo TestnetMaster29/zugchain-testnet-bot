@@ -16,6 +16,7 @@ cd zugchain-testnet-bot
 
 accounts.txt に秘密鍵を1行ずつ入力してください：
 0xPRIVATEKEY1
+
 0xPRIVATEKEY2
 
 
