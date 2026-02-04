@@ -6,7 +6,9 @@ Supports multi-wallet balance check and is ready to be extended for staking, cla
 Requirements
 
 -Node.js v18 or higher (Node v22 recommended)
+
 -npm
+
 -ZugChain private keys
 
 
